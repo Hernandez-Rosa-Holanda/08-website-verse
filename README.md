@@ -7,7 +7,7 @@
   </p>
 <h2>Layout</h2>
 
-  <img src="https://user-images.githubusercontent.com/82759865/141993356-e28c3702-d3f6-4a3a-996a-1c84efbc7ef0.gi">
+  <img src="https://user-images.githubusercontent.com/82759865/141993356-e28c3702-d3f6-4a3a-996a-1c84efbc7ef0.gif">
 
  <h2>Link para visualização do projeto</h2>
 
