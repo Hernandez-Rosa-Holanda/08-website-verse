@@ -24,7 +24,7 @@
 <h2>Clonar projeto</h2>
 
 <i>#Clonar repositório</i></br>
-  git clone <i>https://github.com/Hernandez-Rosa-Holanda/relogio-design.git</i>
+  git clone <i>https://github.com/Hernandez-Rosa-Holanda/pink-design-.git</i>
 
 <h2>Autor</h2> 
 <p>
