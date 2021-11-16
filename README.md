@@ -3,11 +3,11 @@
 
   <h3>Pink Desgin</h3> 
   <p>
-    Trabalhei conceitos de Ui com o intuito de melhor meus conhecimentos em desgin.
+    Trabalhei conceitos de Ui para desenvolver esse layout.
   </p>
 <h2>Layout</h2>
 
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/82759865/141993356-e28c3702-d3f6-4a3a-996a-1c84efbc7ef0.gi">
 
  <h2>Link para visualização do projeto</h2>
 
